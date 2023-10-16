@@ -1,0 +1,17 @@
+{
+  "name": "rsa-oeap-256-example",
+  "version": "1.0.0",
+  "description": "example of data encryption and decryption using rsa",
+  "main": "index.js",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "generate": "node ./generate_key.js",
+    "encrypt": "node ./encrypt.js",
+    "decrypt": "node ./decrypt.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

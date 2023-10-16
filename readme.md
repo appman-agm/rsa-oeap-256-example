@@ -1,6 +1,3 @@
-Sure, here is a sample README.md file for your project:
-
-```markdown
 # RSA Encryption/Decryption Module
 
 This module allows you to encrypt and decrypt files using RSA encryption.

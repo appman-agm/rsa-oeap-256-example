@@ -2,6 +2,8 @@
 
 This module allows you to encrypt and decrypt files using RSA encryption.
 
+ref https://www.sohamkamani.com/nodejs/rsa-encryption/
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
